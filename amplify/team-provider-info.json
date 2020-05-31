@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gappatappa-dev-110219-authRole",
+            "UnauthRoleArn": "arn:aws:iam::784880586770:role/amplify-gappatappa-dev-110219-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::784880586770:role/amplify-gappatappa-dev-110219-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-gappatappa-dev-110219-deployment",
+            "UnauthRoleName": "amplify-gappatappa-dev-110219-unauthRole",
+            "StackName": "amplify-gappatappa-dev-110219",
+            "StackId": "arn:aws:cloudformation:us-east-1:784880586770:stack/amplify-gappatappa-dev-110219/1c2fe5d0-a300-11ea-8c07-0a1f955da693",
+            "AmplifyAppId": "d11dqq119mfkvc"
+        }
+    }
+}
