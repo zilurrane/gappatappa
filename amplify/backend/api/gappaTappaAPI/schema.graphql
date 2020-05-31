@@ -1,0 +1,12 @@
+
+type ChatGroup @model {
+  id: ID!
+  name: String!
+  messages: [Message] @connection(keyName: "byGroup", fields: ["id"])
+}
+
+type Message @model @key(name: "byGroup", fields: ["chatGroupId"]) {
+  id: ID!
+  message: String
+  chatGroupId: ID!
+}

@@ -10,6 +10,11 @@
             "StackName": "amplify-gappatappa-dev-110219",
             "StackId": "arn:aws:cloudformation:us-east-1:784880586770:stack/amplify-gappatappa-dev-110219/1c2fe5d0-a300-11ea-8c07-0a1f955da693",
             "AmplifyAppId": "d11dqq119mfkvc"
+        },
+        "categories": {
+            "auth": {
+                "gappatappa794aa61c": {}
+            }
         }
     }
 }
